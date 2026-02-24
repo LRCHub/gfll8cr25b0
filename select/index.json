@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シャンティ (cover)",
+  "base_artist": "Gero",
+  "createdAt": "2026-02-24T08:35:38.506027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャンティ (feat. KAITO)",
+      "artist": "wotaku",
+      "has_synced": true,
+      "path": "select/01_シャンティ_(feat._KAITO)_wotaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャンティ",
+      "artist": "Hitomi Shimatani",
+      "has_synced": true,
+      "path": "select/02_シャンティ_Hitomi_Shimatani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シャンティ",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/03_シャンティ_島谷ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャンティ",
+      "artist": "wotaku",
+      "has_synced": true,
+      "path": "select/04_シャンティ_wotaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャンティ (cover)",
+      "artist": "Gero",
+      "has_synced": false,
+      "path": "select/pl_01_シャンティ_(cover)_Gero.txt"
+    }
+  ]
+}
